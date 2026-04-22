@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- Favicons & App Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#3d3935">
+    <meta name="msapplication-TileColor" content="#3d3935">
+    
+    <!-- iOS specific meta tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="FoolFarm">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Viewport and format detection -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="format-detection" content="telephone=no">
+    
+    <!-- Primary SEO -->
+    <title>FoolFarm | AI Venture Capital - Investiamo in Startup AI dal 2020</title>
+    <meta name="title" content="FoolFarm - AI Venture Capital | Investiamo in Startup AI-Native" />
+    <meta name="description" content="La piattaforma di Venture Capital AI-native che investe e accelera startup ed imprese, riducendo i tempi di lancio e successo da anni a mesi. €8,15M+ investiti." />
+    
+    <!-- Canonical URL for SEO -->
+    <link rel="canonical" href="https://foolfarm.com" />
+    
+    <!-- Additional meta tags for SEO -->
+    <meta name="keywords" content="FoolFarm, AI, AI Venture Capital, Venture Capital AI-native, investimenti AI startup, Venture Capital Factory, Intelligenza Artificiale, startup studio Italia, venture building Milano, corporate venture building, agentic AI, formazione AI, acceleratore startup, investimenti startup, innovation studio, AI platform, tech incubator Milano, startup deeptech, founders Italia, exit startup, ROI venture capital" />
+    <meta name="author" content="FoolFarm AI Innovation Studios" />
+    <meta name="publisher" content="FoolFarm S.r.l." />
+    <meta name="copyright" content="FoolFarm S.r.l. 2025" />
+    <meta name="distribution" content="global" />
+    <meta name="rating" content="general" />
+    <meta name="revisit-after" content="7 days" />
+    <meta name="expires" content="never" />
+    <meta name="document-type" content="Public" />
+    <meta name="document-rating" content="Safe for Kids" />
+    <meta name="document-distribution" content="Global" />
+    <meta name="cache-control" content="Public" />
+    <meta name="language" content="Italian" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    
+    <!-- Enhanced Open Graph for Social Media -->
+    <meta property="og:title" content="FoolFarm - AI Venture Capital | Investiamo in Startup AI-Native" />
+    <meta property="og:description" content="La piattaforma di Venture Capital AI-native che investe e accelera startup ed imprese, riducendo i tempi di lancio e successo da anni a mesi. €8,15M+ investiti." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://foolfarm.com" />
+    <meta property="og:site_name" content="FoolFarm AI Innovation Studios" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:image" content="https://foolfarm.com/og-image.jpg" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="FoolFarm - Il primo Startup Studio per Intelligenza Artificiale in Italia" />
+    
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FoolFarm - AI Venture Capital | Investiamo in Startup AI-Native" />
+    <meta name="twitter:description" content="La piattaforma di Venture Capital AI-native che investe e accelera startup ed imprese, riducendo i tempi di lancio e successo da anni a mesi. €8,15M+ investiti." />
+    <meta name="twitter:image" content="https://foolfarm.com/og-image.jpg" />
+    <meta name="twitter:site" content="@foolfarm" />
+    
+    <!-- Business Information -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "FoolFarm AI Innovation Studios",
+      "alternateName": "FoolFarm",
+      "url": "https://foolfarm.com",
+      "logo": "https://foolfarm.com/logo.png",
+      "description": "AI Venture Capital che investe e accelera startup AI-native. Piattaforma di Venture Capital AI-native con €8,15M+ investiti, riducendo i tempi di lancio da anni a mesi.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milano",
+        "addressRegion": "MI",
+        "addressCountry": "IT"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/foolfarm",
+        "https://twitter.com/foolfarm",
+        "https://www.instagram.com/foolfarm"
+      ],
+      "foundingDate": "2020",
+      "founders": [
+        {
+          "@type": "Person", 
+          "name": "Andrea Greco"
+        }
+      ],
+      "areaServed": {
+        "@type": "GeoCircle",
+        "geoMidpoint": {
+          "@type": "GeoCoordinates",
+          "latitude": 45.4654,
+          "longitude": 9.1859
+        }
+      },
+      "knowsAbout": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Agentic AI",
+        "Startup Studio",
+        "Venture Building",
+        "Corporate Innovation",
+        "Deep Tech",
+        "AI Training",
+        "Startup Acceleration"
+      ]
+    }
+    </script>
+    
+    <!-- Business Category -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "InvestmentService",
+      "name": "FoolFarm AI Innovation Studios",
+      "image": "https://foolfarm.com/og-image.jpg",
+      "@id": "https://foolfarm.com",
+      "url": "https://foolfarm.com",
+      "telephone": "+39-02-1234567",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milano",
+        "addressRegion": "MI",
+        "postalCode": "20121",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.4654,
+        "longitude": 9.1859
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "priceRange": "€€€",
+      "serviceType": ["AI Venture Capital", "Investment Services", "Startup Acceleration", "AI Investment Platform"],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Italy"
+      }
+    }
+    </script>
+
+    <!-- FAQ Schema for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cos'è FoolFarm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "FoolFarm è un AI Venture Capital che investe e accelera startup AI-native. Siamo la piattaforma di Venture Capital AI-native che riduce i tempi di lancio e successo da anni a mesi, con oltre €8,15M investiti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quali servizi offre FoolFarm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "FoolFarm offre investimenti in startup AI-native, accelerazione attraverso la nostra piattaforma AI proprietaria, supporto al go-to-market, e accesso a una rete di investitori e partner strategici per scalare rapidamente."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come funziona il modello di investimento FoolFarm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "FoolFarm investe come AI Venture Capital in startup AI-native early-stage, offrendo capitale, tecnologia e competenze. Con €8,15M+ investiti, riduciamo i tempi di successo da anni a mesi grazie alla nostra piattaforma AI proprietaria."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- BreadcrumbList for better navigation in search results -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://foolfarm.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "FoolStart",
+          "item": "https://foolfarm.com/foolstart"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FoolDeck",
+          "item": "https://foolfarm.com/fooldeck"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MVP Builder",
+          "item": "https://foolfarm.com/mvpbuilder"
+        }
+      ]
+    }
+    </script>
+
+    <!-- WebSite Search Box -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://foolfarm.com",
+      "name": "FoolFarm AI Innovation Studios",
+      "description": "AI Venture Capital - La piattaforma di investimento AI-native per startup innovative",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://foolfarm.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- Hreflang tags for language/region targeting -->
+    <link rel="alternate" hreflang="it-IT" href="https://foolfarm.com" />
+    <link rel="alternate" hreflang="en-US" href="https://foolfarm.com/en" />
+    <link rel="alternate" hreflang="x-default" href="https://foolfarm.com" />
+    <script type="module" crossorigin src="/assets/index-DCmJ8xDj.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-EgiB1ohj.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <!-- LinkedIn Insight Tag -->
+    <script type="text/javascript">
+    _linkedin_partner_id = "8975985";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script>
+    <script type="text/javascript">
+    (function(l) {
+    if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+    window.lintrk.q=[]}
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);})(window.lintrk);
+    </script>
+    <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=8975985&fmt=gif" />
+    </noscript>
+  </body>
+</html>
